@@ -1,0 +1,47 @@
+{
+  "_from": "epc-theme-test",
+  "_id": "epc-theme-test@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-sbJ2UZv8/8H1w8uYUv0f9mjaqnTZEJqEXt+zKJQN3VNj16wTwqQT10VKm/lD3LaC5MCQMig5VfY+REELBAfVhA==",
+  "_location": "/epc-theme-test",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "epc-theme-test",
+    "name": "epc-theme-test",
+    "escapedName": "epc-theme-test",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/epc-theme-test/-/epc-theme-test-1.0.1.tgz",
+  "_shasum": "78e867c72df2b280de4282132ff30035f552a37f",
+  "_spec": "epc-theme-test",
+  "_where": "C:\\ws\\styleguide",
+  "author": {
+    "name": "CHIT"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-connect": "^2.0.0",
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-notify": "^0.4.5",
+    "load-grunt-tasks": "^5.0.0"
+  },
+  "name": "epc-theme-test",
+  "private": false,
+  "version": "1.0.1"
+}
