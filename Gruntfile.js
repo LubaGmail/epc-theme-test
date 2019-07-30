@@ -12,7 +12,7 @@ require('load-grunt-tasks')(grunt);
                     base: '.',
                     keepalive: false,
                     open: {
-                        target: 'http://localhost:8001/html/styleguide.html',
+                        target: 'http://localhost:8000/html/styleguide.html',
                     }
                 }
             }
